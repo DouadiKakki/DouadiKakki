@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/DouadiKakki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+production-grade+apps+since+2018;💡+MERN+%7C+React+Native+%7C+Expo+%7C+AI+Integration;⚡+Speed+is+the+most+important+thing+in+development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+production-grade+apps+since+2018;💡+MERN+%7C+React+Native+%7C+Expo+%7C+AI+Integration;⚡+Speed+is+the+most+important+thing+in+development" alt="Typing SVG" />
   </a>
 </div>
 
@@ -55,7 +55,6 @@ contact     : github.com/DouadiKakki
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
@@ -85,7 +84,6 @@ contact     : github.com/DouadiKakki
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 </details>
 
@@ -105,7 +103,6 @@ contact     : github.com/DouadiKakki
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
 </details>
 
 <details open>
@@ -117,7 +114,7 @@ contact     : github.com/DouadiKakki
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 </details>
@@ -133,7 +130,6 @@ contact     : github.com/DouadiKakki
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 </details>
@@ -143,30 +139,19 @@ contact     : github.com/DouadiKakki
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DouadiKakki&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=b44fff&icon_color=ff6ec7&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DouadiKakki&theme=midnight-purple&hide_border=true&background=0d001a&ring=b44fff&fire=ff6ec7&currStreakLabel=b44fff&sideLabels=ffffff&dates=aaaaaa" />
+  <img height="180" src="https://streak-stats.demolab.com?user=DouadiKakki&theme=tokyonight&hide_border=true&background=0d001a&ring=b44fff&fire=ff6ec7&currStreakLabel=b44fff&sideLabels=c9d1d9&dates=888888&stroke=b44fff" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouadiKakki&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d001a&title_color=b44fff&text_color=ffffff&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DouadiKakki&bg_color=0d001a&color=b44fff&line=ff6ec7&point=ffffff&hide_border=true" />
-</div>
+<br/>
 
----
+**Most used languages:**
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DouadiKakki&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DouadiKakki/DouadiKakki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-40%25-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-15%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-10%25-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-5%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-5%25-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ---
 
@@ -175,24 +160,20 @@ contact     : github.com/DouadiKakki
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-🌐-1a0533?style=for-the-badge" /><br/>
-      <b>Web Apps</b><br/>
-      <sub>SaaS platforms, dashboards, e-commerce, CMSs with Next.js & Vue</sub>
+      <b>🌐 Web Apps</b><br/><br/>
+      <sub>SaaS platforms, dashboards,<br/>e-commerce & CMSs<br/>with Next.js & Vue</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-📱-1a0533?style=for-the-badge" /><br/>
-      <b>Mobile Apps</b><br/>
-      <sub>Cross-platform iOS & Android with React Native / Expo / Flutter</sub>
+      <b>📱 Mobile Apps</b><br/><br/>
+      <sub>Cross-platform iOS & Android<br/>with React Native,<br/>Expo & Flutter</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-🤖-1a0533?style=for-the-badge" /><br/>
-      <b>AI Products</b><br/>
-      <sub>LLM pipelines, RAG systems, AI agents, chatbots, automation flows</sub>
+      <b>🤖 AI Products</b><br/><br/>
+      <sub>LLM pipelines, RAG systems,<br/>AI agents, chatbots<br/>& automation flows</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-⚙️-1a0533?style=for-the-badge" /><br/>
-      <b>APIs & Backend</b><br/>
-      <sub>REST & GraphQL APIs, microservices, real-time systems, auth flows</sub>
+      <b>⚙️ APIs & Backend</b><br/><br/>
+      <sub>REST & GraphQL APIs,<br/>microservices, real-time<br/>systems & auth flows</sub>
     </td>
   </tr>
 </table>
