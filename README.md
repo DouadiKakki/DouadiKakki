@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6a0dad,50:9b30ff,100:ff6ec7&height=200&section=header&text=DouadiKakki&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Engineer&descAlignY=75&descSize=20&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:9b30ff,100:ff6ec7&height=220&section=header&text=DouadiKakki&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Engineer&descAlignY=65&descSize=22&descColor=ffffff" />
 
 <div align="center">
-  <a href="https://github.com/DouadiKakki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=B44FFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+production-grade+apps+since+2018;💡+MERN+%7C+React+Native+%7C+Expo+%7C+AI+Integration;⚡+Speed+is+the+most+important+thing+in+development" alt="Typing SVG" />
-  </a>
+  <h3>🚀 Building production-grade apps since 2018</h3>
+  <p>💡 MERN &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Expo &nbsp;|&nbsp; AI Integration</p>
+  <p>⚡ Speed is the most important thing in development</p>
 </div>
 
 <br/>
